@@ -23,7 +23,7 @@ def get_filters():
 
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
-
+    # All Inputs is available for end user
 
     print('-'*40)
     return city, month, day
@@ -135,3 +135,5 @@ def main():
 
 if __name__ == "__main__":
 	main()
+# End of the script 
+# End users are able to get a data summary by answering the questions 
