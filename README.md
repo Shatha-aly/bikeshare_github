@@ -66,8 +66,14 @@ Describe what your project is about and what it does
 ### `main()`
 - Runs the script in a loop to allow users to restart the analysis with new inputs.
 
-### Files used
-Include the files used
+## Usage
+1. Run the script using:
+   ```bash
+   python bikeshare.py
+   ```
+2. Follow the prompts to select a city, month, and day.
+3. View the computed statistics.
+4. Choose to restart or exit.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
